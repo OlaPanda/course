@@ -1,5 +1,4 @@
-package Controles;
-
+package sample.Controllers;
 import javafx.scene.control.Button;
 import javafx.scene.control.Spinner;
 import javafx.scene.control.TextField;

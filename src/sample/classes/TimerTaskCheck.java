@@ -1,4 +1,4 @@
-package classes;
+package sample.classes;
 
 import java.util.TimerTask;
 
